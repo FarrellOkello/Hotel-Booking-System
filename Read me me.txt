@@ -1,0 +1,10 @@
+//===========================//
+READ ME
+//===========================//
+This hotel booking system is a code igniter project.
+
+I have only uploaded the Controller, Model and Views 
+so for you to be able to use it upload those to your new CI projeect
+replacing the 3 
+-Upload your the sql file to your Db 
+-point your db to the correct servers then you can run the project 
